@@ -9,5 +9,3 @@ Meu nome é *Nicolas Leite Quirino*
 ### Você pode entrar em contato comigo 🙏🏽
 
 n.n.quirino@escola.pr.gov.br 
-
-![descrição do GIF](link GIF do Tenor)
