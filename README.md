@@ -1,12 +1,13 @@
-Boas vindas ao meu perfil 😎
+### Boas vindas ao meu perfil 😎
 
-     meu nome é Nicolas Leite Quirino 
-       Estou estudando no Alura 🤜🤛
-       Estou me desenvolvendo na linguagem JavaScript
-       Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Meu nome é *Nicolas Leite Quirino*
 
-Você pode entrar em contato comigo 🙅🏾‍♂️   
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-n.quirino@escola.pr.gov.br 
+### Você pode entrar em contato comigo 🙏🏽
 
+n.n.quirino@escola.pr.gov.br 
 
+![descrição do GIF](link GIF do Tenor)
